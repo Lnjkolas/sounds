@@ -25,9 +25,9 @@
   },
   {
     "order": 5,
-    "id": "Tetris",
-    "game": "Tetris",
-    "answers": ["Tetris"]
+    "id": "Cambiar",
+    "game": "Cambiar",
+    "answers": ["Cambiar"]
   },
   {
     "order": 6,
