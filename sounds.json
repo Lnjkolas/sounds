@@ -61,9 +61,9 @@
   },
   {
     "order": 11,
-    "id": "pac man",
-    "game": "Pac-Man",
-    "answers": ["pacman", "pac-man"]
+    "id": "Angry birds",
+    "game": "Angry birds",
+    "answers": ["Angry birds"]
   },
   {
     "order": 12,
@@ -115,9 +115,9 @@
   },
   {
     "order": 20,
-    "id": "Roblox",
-    "game": "Roblox",
-    "answers": ["Roblox"]
+    "id": "Subnautica",
+    "game": "Subnautica",
+    "answers": ["Subnautica"]
   },
   {
     "order": 21,
@@ -127,15 +127,15 @@
   },
   {
     "order": 22,
-    "id": "Mario",
-    "game": "Super Mario Bros",
-    "answers": ["Mario","Super Mario bros","Mario bros"]
+    "id": "Diablo",
+    "game": "Diablo",
+    "answers": ["Diablo", "Diablo 2"]
   },
   {
     "order": 23,
-    "id": "Borderlands",
-    "game": "Borderlands",
-    "answers": ["Borderlands","Borderland"]
+    "id": "Doom",
+    "game": "Doom",
+    "answers": ["Doom"]
   },
   {
     "order": 24,
@@ -157,9 +157,9 @@
   },
   {
     "order": 27,
-    "id": "Payday",
-    "game": "Payday 2",
-    "answers": ["Payday 2", "Payday"]
+    "id": "Cuphead",
+    "game": "Cuphead",
+    "answers": ["Cuphead"]
   },
   {
     "order": 28,
@@ -175,9 +175,9 @@
   },
   {
     "order": 30,
-    "id": "Bubble bobble",
-    "game": "Bubble bobble",
-    "answers": ["Bubble","Bubble bobble","bobble"]
+    "id": "Snow bros",
+    "game": "Snow bros",
+    "answers": ["Snow bros"]
   },
   {
     "order": 31,
@@ -241,9 +241,9 @@
   },
   {
     "order": 41,
-    "id": "Valorant",
-    "game": "Valorant",
-    "answers": ["Valorant"]
+    "id": "Left 4 Dead 2",
+    "game": "Left 4 Dead 2",
+    "answers": ["Left 4 Dead 2","Left 4 Dead" ,"lfd2","l4d2"]
   },
   {
     "order": 42,
@@ -298,65 +298,5 @@
     "id": "Sekiro",
     "game": "Sekiro: Shadows Die Twice",
     "answers": ["sekiro", "Sekiro shadows die twice"]
-  },
-  {
-    "order": 51,
-    "id": "Snow bros",
-    "game": "Snow bros",
-    "answers": ["Snow bros"]
-  },
-  {
-    "order": 52,
-    "id": "Dont starve",
-    "game": "Don't Starve",
-    "answers": ["dont starve", "don't starve" ,"Dont starve together"]
-  },
-  {
-    "order": 53,
-    "id": "",
-    "game": "",
-    "answers": [""]
-  },
-  {
-    "order": 54,
-    "id": "Left 4 Dead 2",
-    "game": "Left 4 Dead 2",
-    "answers": ["Left 4 Dead 2","Left 4 Dead" ,"lfd2","l4d2"]
-  },
-  {
-    "order": 55,
-    "id": "Cuphead",
-    "game": "Cuphead",
-    "answers": ["Cuphead"]
-  },
-  {
-    "order": 56,
-    "id": "Doom",
-    "game": "Doom",
-    "answers": ["Doom"]
-  },
-  {
-    "order": 57,
-    "id": "Diablo",
-    "game": "Diablo",
-    "answers": ["Diablo", "Diablo 2"]
-  },
-  {
-    "order": 58,
-    "id": "Starcraft",
-    "game": "Starcraft II",
-    "answers": ["Starcraft", "starcraft 2"]
-  },
-  {
-    "order": 59,
-    "id": "Subnautica",
-    "game": "Subnautica",
-    "answers": ["Subnautica"]
-  },
-  {
-    "order": 60,
-    "id": "Angry birds",
-    "game": "Angry birds",
-    "answers": ["Angry birds"]
   }
 ]
