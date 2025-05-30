@@ -103,9 +103,9 @@
   },
   {
     "order": 18,
-    "id": "Clash royale",
-    "game": "Clash royale",
-    "answers": ["Clash royale"]
+    "id": "Dbd",
+    "game": "Dead by daylight",
+    "answers": ["Dead by daylight" ,"dbd"]
   },
   {
     "order": 19,
@@ -157,27 +157,27 @@
   },
   {
     "order": 27,
-    "id": "Fall guys",
-    "game": "Fall guys",
-    "answers": ["Fall guys","Fall gays","fall guy"]
+    "id": "Payday",
+    "game": "Payday 2",
+    "answers": ["Payday 2", "Payday"]
   },
   {
     "order": 28,
-    "id": "Donkey kong",
-    "game": "Donkey kong",
-    "answers": ["Donkey kong"]
+    "id": "Celeste",
+    "game": "Celeste",
+    "answers": ["Celeste"]
   },
   {
     "order": 29,
-    "id": "For honor",
-    "game": "For Honor",
-    "answers": ["For Honor"]
+    "id": "Hades",
+    "game": "Hades",
+    "answers": ["Hades"]
   },
   {
     "order": 30,
-    "id": "Halo",
-    "game": "Halo",
-    "answers": ["Halo"]
+    "id": "Bubble bobble",
+    "game": "Bubble bobble",
+    "answers": ["Bubble","Bubble bobble","bobble"]
   },
   {
     "order": 31,
@@ -247,9 +247,9 @@
   },
   {
     "order": 42,
-    "id": "Apex legends",
-    "game": "Apex legends",
-    "answers": ["Apex","apex legend","apex legends"]
+    "id": "Mu",
+    "game": "Mu online",
+    "answers": ["Mu","jamaica","Mu online"]
   },
   {
     "order": 43,
@@ -295,9 +295,9 @@
   },
   {
     "order": 50,
-    "id": "Brawlhalla",
-    "game": "Brawlhalla",
-    "answers": ["Brawlhalla"]
+    "id": "Sekiro",
+    "game": "Sekiro: Shadows Die Twice",
+    "answers": ["sekiro", "Sekiro shadows die twice"]
   },
   {
     "order": 51,
@@ -313,9 +313,9 @@
   },
   {
     "order": 53,
-    "id": "Warcraft",
-    "game": "Warcraft",
-    "answers": ["Warcraft"]
+    "id": "",
+    "game": "",
+    "answers": [""]
   },
   {
     "order": 54,
@@ -349,75 +349,14 @@
   },
   {
     "order": 59,
-    "id": "Witcher",
-    "game": "The Witcher 3: Wild Hunt",
-    "answers": ["Witcher 3", "The witcher 3", "Witcher"]
-  },
-  {
-    "order": 60,
-    "id": "Rainbow six",
-    "game": "Rainbow six siege",
-    "answers": ["Rainbow six", "Rainbow six siege"]
-  },
-  {
-    "order": 61,
-    "id": "Angry birds",
-    "game": "Angry birds",
-    "answers": ["Angry birds"]
-  },
-  {
-    "order": 62,
     "id": "Subnautica",
     "game": "Subnautica",
     "answers": ["Subnautica"]
   },
   {
-    "order": 63,
-    "id": "Sekiro",
-    "game": "Sekiro: Shadows Die Twice",
-    "answers": ["sekiro", "Sekiro shadows die twice"]
-  },
-  {
-    "order": 64,
-    "id": "Mu",
-    "game": "Mu online",
-    "answers": ["Mu","jamaica","Mu online"]
-  },
-  {
-    "order": 65,
-    "id": "Bubble bobble",
-    "game": "Bubble bobble",
-    "answers": ["Bubble","Bubble bobble","bobble"]
-  },
-  {
-    "order": 66,
-    "id": "Hades",
-    "game": "Hades",
-    "answers": ["Hades"]
-  },
-  {
-    "order": 67,
-    "id": "Celeste",
-    "game": "Celeste",
-    "answers": ["Celeste"]
-  },
-  {
-    "order": 68,
-    "id": "Dbd",
-    "game": "Dead by daylight",
-    "answers": ["Dead by daylight" ,"dbd"]
-  },
-  {
-    "order": 69,
-    "id": "Payday",
-    "game": "Payday 2",
-    "answers": ["Payday 2", "Payday"]
-  },
-  {
-    "order": 70,
-    "id": "Castle crashers",
-    "game": "Castle crashers",
-    "answers": ["Castle crashers", "Castle crasher"]
-  }   
-  
+    "order": 60,
+    "id": "Angry birds",
+    "game": "Angry birds",
+    "answers": ["Angry birds"]
+  }
 ]
