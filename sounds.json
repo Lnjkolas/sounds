@@ -115,15 +115,15 @@
   },
   {
     "order": 20,
-    "id": "Subnautica",
-    "game": "Subnautica",
-    "answers": ["Subnautica"]
+    "id": "Kingdom come",
+    "game": "Kingdom come deliverance 2",
+    "answers": ["kingdom come","kingdome come","kcd","kcd2","kingdom come deliverance"]
   },
   {
     "order": 21,
-    "id": "Street fighter",
-    "game": "Street fighter",
-    "answers": ["Street fighter","stret fighter"]
+    "id": "Valorant",
+    "game": "Valorant",
+    "answers": ["Valorant","valorant"]
   },
   {
     "order": 22,
@@ -225,7 +225,7 @@
     "order": 38,
     "id": "Resident evil",
     "game": "Resident Evil 4",
-    "answers": ["Resident Evil", "Resident Evil 4"]
+    "answers": ["Resident Evil", "Resident Evil 4","re4"]
   },
   {
     "order": 39,
@@ -295,8 +295,8 @@
   },
   {
     "order": 50,
-    "id": "Sekiro",
-    "game": "Sekiro: Shadows Die Twice",
-    "answers": ["sekiro", "Sekiro shadows die twice"]
+    "id": "expedition 33",
+    "game": "Clair Obscur: Expedition 33",
+    "answers": ["expedition", "clair obscure","clair obscure: expedition 33","expedition 33"]
   }
 ]
