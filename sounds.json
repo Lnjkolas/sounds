@@ -25,9 +25,9 @@
   },
   {
     "order": 5,
-    "id": "Bg3",
-    "game": "Baldurs Gate 3",
-    "answers": ["Baldurs","Baldurs gate","bg3","baldur","baldurs gate 3"]
+    "id": "League",
+    "game": "League of legends",
+    "answers": ["League of legends","lol"]
   },
   {
     "order": 6,
@@ -97,9 +97,9 @@
   },
   {
     "order": 17,
-    "id": "Crash bandicoot",
-    "game": "Crash bandicoot",
-    "answers": ["Crash bandicoot","crash","crash bandicot"]
+    "id": "Dbd", 	
+    "game": "Dead By Daylight",
+    "answers": ["dbd","Dead by daylight","ded by daylight","daylight"]
   },
   {
     "order": 18,
@@ -271,9 +271,9 @@
   },
   {
     "order": 46,
-    "id": "League",
-    "game": "League of legends",
-    "answers": ["League of legends","lol"]
+    "id": "Bg3",
+    "game": "Baldurs Gate 3",
+    "answers": ["Baldurs","Baldurs gate","bg3","baldur","baldurs gate 3"]
   },
   {
     "order": 47,
