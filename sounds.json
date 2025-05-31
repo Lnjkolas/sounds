@@ -61,9 +61,9 @@
   },
   {
     "order": 11,
-    "id": "Angry birds",
-    "game": "Angry birds",
-    "answers": ["Angry birds"]
+    "id": "Pinball",
+    "game": "3d pinball space cadet",
+    "answers": ["pinball","3d pinball","3d pinball space cadet","space cadet"]
   },
   {
     "order": 12,
@@ -103,27 +103,27 @@
   },
   {
     "order": 18,
-    "id": "Dbd",
-    "game": "Dead by daylight",
-    "answers": ["Dead by daylight" ,"dbd"]
+    "id": "rdr2",
+    "game": "Red dead redemption 2",
+    "answers": ["rdr" ,"red dead","rdr2","redemption","red dead redemption 2","red dead redemption"]
   },
   {
     "order": 19,
     "id": "Metal slug",
     "game": "Metal slug",
-    "answers": ["Metal slug"]
+    "answers": ["Metal slug","metal slag"]
   },
   {
     "order": 20,
     "id": "Kingdom come",
     "game": "Kingdom come deliverance 2",
-    "answers": ["kingdom come","kingdome come","kcd","kcd2","kingdom come deliverance"]
+    "answers": ["kingdom come","kingdome come","kcd","kcd2","kingdom come deliverance","kindom com"]
   },
   {
     "order": 21,
     "id": "Valorant",
     "game": "Valorant",
-    "answers": ["Valorant","valorant"]
+    "answers": ["Valorant","valo"]
   },
   {
     "order": 22,
@@ -135,7 +135,7 @@
     "order": 23,
     "id": "Doom",
     "game": "Doom",
-    "answers": ["Doom"]
+    "answers": ["Doom","dum"]
   },
   {
     "order": 24,
@@ -163,9 +163,9 @@
   },
   {
     "order": 28,
-    "id": "Celeste",
-    "game": "Celeste",
-    "answers": ["Celeste"]
+    "id": "Need for speed",
+    "game": "Need for Speed: Underground 2",
+    "answers": ["Need for speed" , "underground" , "need for speed 2"]
   },
   {
     "order": 29,
@@ -231,7 +231,7 @@
     "order": 39,
     "id": "Age of Mythology",
     "game": "Age of Mythology",
-    "answers": ["Age of mythology","mythology"]
+    "answers": ["Age of mythology","mythology","aom"]
   },
   {
     "order": 40,
@@ -289,9 +289,9 @@
   },
   {
     "order": 49,
-    "id": "Need for speed",
-    "game": "Need for Speed: Underground 2",
-    "answers": ["Need for speed" , "underground" , "need for speed 2"]
+    "id": "Celeste",
+    "game": "Celeste",
+    "answers": ["Celeste"]
   },
   {
     "order": 50,
