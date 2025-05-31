@@ -13,9 +13,9 @@
   },
   {
     "order": 3,
-    "id": "Worms",
-    "game": "Worms",
-    "answers": ["Worms","worm"]
+    "id": "Need for speed",
+    "game": "Need for Speed: Underground 2",
+    "answers": ["Need for speed" , "underground" , "need for speed 2"]
   },
   {
     "order": 4,
@@ -103,9 +103,9 @@
   },
   {
     "order": 18,
-    "id": "rdr2",
-    "game": "Red dead redemption 2",
-    "answers": ["rdr" ,"red dead","rdr2","redemption","red dead redemption 2","red dead redemption"]
+    "id": "Left 4 Dead 2",
+    "game": "Left 4 Dead 2",
+    "answers": ["Left 4 Dead 2","Left 4 Dead" ,"lfd2","l4d2"]
   },
   {
     "order": 19,
@@ -115,9 +115,9 @@
   },
   {
     "order": 20,
-    "id": "Kingdom come",
-    "game": "Kingdom come deliverance 2",
-    "answers": ["kingdom come","kingdome come","kcd","kcd2","kingdom come deliverance","kindom com"]
+    "id": "Slenderman",
+    "game": "Slenderman",
+    "answers": ["Slenderman"]
   },
   {
     "order": 21,
@@ -163,9 +163,9 @@
   },
   {
     "order": 28,
-    "id": "Need for speed",
-    "game": "Need for Speed: Underground 2",
-    "answers": ["Need for speed" , "underground" , "need for speed 2"]
+    "id": "Worms",
+    "game": "Worms",
+    "answers": ["Worms","worm"]
   },
   {
     "order": 29,
@@ -241,9 +241,9 @@
   },
   {
     "order": 41,
-    "id": "Left 4 Dead 2",
-    "game": "Left 4 Dead 2",
-    "answers": ["Left 4 Dead 2","Left 4 Dead" ,"lfd2","l4d2"]
+    "id": "rdr2",
+    "game": "Red dead redemption 2",
+    "answers": ["rdr" ,"red dead","rdr2","redemption","red dead redemption 2","red dead redemption"]
   },
   {
     "order": 42,
@@ -277,9 +277,9 @@
   },
   {
     "order": 47,
-    "id": "Slenderman",
-    "game": "Slenderman",
-    "answers": ["Slenderman"]
+    "id": "Kingdom come",
+    "game": "Kingdom come deliverance 2",
+    "answers": ["kingdom come","kingdome come","kcd","kcd2","kingdom come deliverance","kindom com"]
   },
   {
     "order": 48,
@@ -300,3 +300,5 @@
     "answers": ["expedition", "clair obscure","clair obscure: expedition 33","expedition 33"]
   }
 ]
+
+
