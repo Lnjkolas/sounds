@@ -175,15 +175,15 @@
   },
   {
     "order": 30,
-    "id": "Witcher",
-    "game": "The Witcher",
-    "answers": ["Witcher","The witcher","the wicher","wicher","The witcher 3"]
+    "id": "mortalkombat",
+    "game": "Mortal Kombat",
+    "answers": ["Mortal Kombat","mortalkombat","mortal kombt","mortal combat"]
   },
   {
     "order": 31,
-    "id": "Celeste",
-    "game": "Celeste",
-    "answers": ["Celeste"]
+    "id": "Age of Mythology",
+    "game": "Age of Mythology",
+    "answers": ["Age of Mythology","aom","age of mitology","age of mithology","age of mito"]
   },
   {
     "order": 32,
