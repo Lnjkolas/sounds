@@ -97,10 +97,10 @@
   },
   {
     "order": 17,
-    "id": "Dbd", 	
-    "game": "Dead By Daylight",
-    "answers": ["dbd","Dead by daylight","ded by daylight","daylight"]
-  },
+    "id": "Five nights",
+    "game": "Five Nights at Freddy's",
+    "answers": ["Five nights","fnaf","Five nights at freddy","five nights at freddys","freddys","five nights at freddy's"]
+   },
   {
     "order": 18,
     "id": "Left 4 Dead 2",
@@ -253,9 +253,9 @@
   },
   {
     "order": 43,
-    "id": "Five nights",
-    "game": "Five Nights at Freddy's",
-    "answers": ["Five nights","fnaf","Five nights at freddy","five nights at freddys","freddys","five nights at freddy's"]
+    "id": "Dbd", 	
+    "game": "Dead By Daylight",
+    "answers": ["dbd","Dead by daylight","ded by daylight","daylight"]
   },
   {
     "order": 44,
