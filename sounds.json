@@ -121,9 +121,9 @@
   },
   {
     "order": 21,
-    "id": "Valorant",
-    "game": "Valorant",
-    "answers": ["Valorant","valo"]
+    "id": "Snow bros",
+    "game": "Snow bros",
+    "answers": ["Snow bros","Snowbro"]
   },
   {
     "order": 22,
@@ -181,9 +181,9 @@
   },
   {
     "order": 31,
-    "id": "Overwatch",
-    "game": "Overwatch",
-    "answers": ["Overwatch"]
+    "id": "Celeste",
+    "game": "Celeste",
+    "answers": ["Celeste"]
   },
   {
     "order": 32,
