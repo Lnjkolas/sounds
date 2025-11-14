@@ -127,9 +127,9 @@
   },
   {
     "order": 22,
-    "id": "Diablo",
-    "game": "Diablo",
-    "answers": ["Diablo", "Diablo 2"]
+    "id": "Call of duty",
+    "game": "Call of duty",
+    "answers": ["Call of duty" ,"Call of duty modern warfare","Call of duty MW2"]
   },
   {
     "order": 23,
@@ -235,9 +235,9 @@
   },
   {
     "order": 40,
-    "id": "Call of duty",
-    "game": "Call of duty",
-    "answers": ["Call of duty" ,"Call of duty modern warfare","Call of duty MW2"]
+    "id": "Diablo",
+    "game": "Diablo 2",
+    "answers": ["Diablo", "Diablo 2"]
   },
   {
     "order": 41,
