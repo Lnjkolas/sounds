@@ -169,9 +169,9 @@
   },
   {
     "order": 29,
-    "id": "Hades",
-    "game": "Hades",
-    "answers": ["Hades"]
+    "id": "Isaac",
+    "game": "The Binding of isaac",
+    "answers": ["Binding of isaac","The Binding of isaac","isaac"]
   },
   {
     "order": 30,
@@ -283,9 +283,9 @@
   },
   {
     "order": 48,
-    "id": "Isaac",
-    "game": "The Binding of isaac",
-    "answers": ["Binding of isaac","The Binding of isaac","isaac"]
+    "id": "Hades",
+    "game": "Hades",
+    "answers": ["Hades"]
   },
   {
     "order": 49,
