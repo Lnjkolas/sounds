@@ -129,7 +129,7 @@
     "order": 22,
     "id": "Call of duty",
     "game": "Call of duty",
-    "answers": ["Call of duty" ,"Call of duty modern warfare","Call of duty MW2"]
+    "answers": ["Call of duty" ,"Call of duty modern warfare","Call of duty MW2","cod"]
   },
   {
     "order": 23,
@@ -139,9 +139,9 @@
   },
   {
     "order": 24,
-    "id": "Borderlands",
-    "game": "Borderlands",
-    "answers": ["Borderlands","Borderl","boderland"]
+    "id": "Battlefield 6",
+    "game": "Battlefield 6",
+    "answers": ["Battlefield","batelfield","battlefled","battlefiel"]
   },
   {
     "order": 25,
