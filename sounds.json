@@ -121,9 +121,9 @@
   },
   {
     "order": 21,
-    "id": "Snow bros",
-    "game": "Snow bros",
-    "answers": ["Snow bros","Snowbro"]
+    "id": "mortalkombat",
+    "game": "Mortal Kombat",
+    "answers": ["Mortal Kombat","mortalkombat","mortal kombt","mortal combat"]
   },
   {
     "order": 22,
@@ -175,9 +175,9 @@
   },
   {
     "order": 30,
-    "id": "mortalkombat",
-    "game": "Mortal Kombat",
-    "answers": ["Mortal Kombat","mortalkombat","mortal kombt","mortal combat"]
+    "id": "Baldurs Gate",
+    "game": "Baldurs Gate",
+    "answers": ["Baldurs Gate","Baldur gat","baldurs geit"]
   },
   {
     "order": 31,
