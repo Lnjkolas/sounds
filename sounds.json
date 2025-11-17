@@ -115,9 +115,9 @@
   },
   {
     "order": 20,
-    "id": "Slenderman",
-    "game": "Slenderman",
-    "answers": ["Slenderman"]
+    "id": "The legend of zelda",
+    "game": "The legend of Zelda",
+    "answers": ["Zelda","Legend of zelda","ocarina of time"]
   },
   {
     "order": 21,
@@ -133,15 +133,15 @@
   },
   {
     "order": 23,
-    "id": "Doom",
-    "game": "Doom",
-    "answers": ["Doom","dum"]
+    "id": "Half life",
+    "game": "Half-Life",
+    "answers": ["Half life"]
   },
   {
     "order": 24,
-    "id": "Battlefield 6",
-    "game": "Battlefield 6",
-    "answers": ["Battlefield","batelfield","battlefled","battlefiel"]
+    "id": "Portal",
+    "game": "Portal 2",
+    "answers": ["Portal", "Portal 2"]
   },
   {
     "order": 25,
@@ -175,9 +175,9 @@
   },
   {
     "order": 30,
-    "id": "Baldurs Gate",
-    "game": "Baldurs Gate",
-    "answers": ["Baldurs Gate","Baldur gat","baldurs geit"]
+    "id": "Resident evil",
+    "game": "Resident Evil 4",
+    "answers": ["Resident Evil", "Resident Evil 4","re4"]
   },
   {
     "order": 31,
@@ -187,9 +187,9 @@
   },
   {
     "order": 32,
-    "id": "Half life",
-    "game": "Half-Life",
-    "answers": ["Half life"]
+    "id": "Doom",
+    "game": "Doom",
+    "answers": ["Doom","dum"]
   },
   {
     "order": 33,
@@ -205,9 +205,9 @@
   },
   {
     "order": 35,
-    "id": "Portal",
-    "game": "Portal 2",
-    "answers": ["Portal", "Portal 2"]
+    "id": "Battlefield 6",
+    "game": "Battlefield 6",
+    "answers": ["Battlefield","batelfield","battlefled","battlefiel"]
   },
   {
     "order": 36,
@@ -217,15 +217,15 @@
   },
   {
     "order": 37,
-    "id": "The legend of zelda",
-    "game": "The legend of Zelda",
-    "answers": ["Zelda","Legend of zelda","ocarina of time"]
+    "id": "Slenderman",
+    "game": "Slenderman",
+    "answers": ["Slenderman"]
   },
   {
     "order": 38,
-    "id": "Resident evil",
-    "game": "Resident Evil 4",
-    "answers": ["Resident Evil", "Resident Evil 4","re4"]
+    "id": "Baldurs Gate",
+    "game": "Baldurs Gate",
+    "answers": ["Baldurs Gate","Baldur gat","baldurs geit"]
   },
   {
     "order": 39,
